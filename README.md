@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/22963672/README.md)
 # 🛒 E-Commerce Product Recommender
 ## AI-Powered Shopping Platform with LLM Explanations
 
